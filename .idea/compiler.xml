@@ -9,6 +9,7 @@
         <module name="ProyectoFinal_" />
         <module name="ProyectoFinal" />
         <module name="ProyectoFinalV0.2" />
+        <module name="PassHash" />
       </profile>
     </annotationProcessing>
   </component>
